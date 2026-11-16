@@ -1,0 +1,5 @@
+Diagnostics:
+  Suppress:
+    - unknown_typename_suggest
+    - typename_requires_specqual
+    - duplicate_member

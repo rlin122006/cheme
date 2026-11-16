@@ -1,0 +1,9 @@
+
+-x
+c
+-std=c11
+-D__TICE__=1
+-I
+src
+-isystem
+/home/riley/Projects/source/cheme/.toolchain/CEdev/include
